@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+    width: 80px;
+    margin: 50pt;
+}
+
+h1 {
+    color: rgb(72, 10, 241);
+    font: italic;
+    font-size: medium;
+    display: inline-block;
+}
+
+p {
+    color: rgb(255, 0, 149);
+    font: 100;
+    display: inline-block;
+}
+
+small {
+    color: #666666;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
